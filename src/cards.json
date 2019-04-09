@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "image": "archer.jpg",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "image": "barry.jpg",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "image": "cheryl.jpg",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "image": "cryil.jpg",
+        "count": 0
+    
+    },
+    {
+        "id": 5,
+        "image": "katya.jpg",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "image": "krieger.jpg",
+        "count": 0
+    },
+    {
+        "id": 7,
+        "image": "lana.jpg",
+        "count": 0
+    },
+    {
+        "id": 8,
+        "image": "malory.jpg",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "image": "pam.jpg",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "image": "ray.jpg",
+        "count": 0
+    },
+    {
+        "id": 11,
+        "image": "ron.jpg",
+        "count": 0
+    },
+    {
+        "id": 12,
+        "image": "woodhouse.jpg",
+        "count": 0
+    }
+]
